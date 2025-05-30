@@ -1,6 +1,3 @@
-
-version: "3.9"
-
 services:
   # Kafka Broker & Controller Node 1
   kafka1:
