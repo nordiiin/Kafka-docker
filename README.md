@@ -4,7 +4,7 @@
 
 1. Starta Kafka-miljön med:
 
-   ```bash
+   ```
    docker compose up -d
    ```
 
